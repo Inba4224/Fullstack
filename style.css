@@ -1,5 +1,30 @@
-.url-heading{
-    font-size: 30px;
-    width: 250px;
+.url-heading
+{
     background-color: grey;
+    font-size: 35px;
+    text-align:center;
 }
+
+.url-input
+{
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.short-button
+{
+    text-align: center;
+
+}
+
+.input-box
+{
+    height: 20px;
+    width: 250px;
+}
+.clickable-button
+{
+    height:30px ;
+    width: 110px;
+} 
